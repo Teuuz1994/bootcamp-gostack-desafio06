@@ -128,6 +128,10 @@ Para esse desafio, temos os seguintes testes:
 
 - **`should be able to import transactions`**: Para que esse teste passe, a aplicação deve permitir que seja importado um arquivo csv, contendo o seguinte [modelo](./src/__tests__/import_template.csv). Com o arquivo importado, deve permitir que seja criado no banco de dados todos os registros e categorias que estavam presentes nesse arquivo, e retornar todas as transactions que foram importadas.
 
+<p align="center">
+<a href="https://insomnia.rest/run/?label=desafio06-bootcamp-gostack&uri=https%3A%2F%2Fgithub.com%2FTeuuz1994%2Fdesafio06-gostack%2Fblob%2Fmaster%2F.github%2FInsomnia_2020-07-29.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
 ---
 
 Made by Teuuz1994 :wave:
